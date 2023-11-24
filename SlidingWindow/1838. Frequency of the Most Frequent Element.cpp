@@ -52,4 +52,4 @@ public:
 
         return result;
     }
-};
+}
