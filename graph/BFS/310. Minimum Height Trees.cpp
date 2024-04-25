@@ -96,4 +96,8 @@ public:
        }
        return result;
     }
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> df62653a04213e148482ac013238c4bf5f94ac06
