@@ -6,10 +6,10 @@ public:
         int n = grid[0].size();
         vector<vector<int>> adj(m, vector<int>(n, INT_MAX));
         adj[0][0] = 0;
-        priority_queue<pair<int, pair<int, int>>,
+        priority_queue<
+                       pair<int, pair<int, int>>,
                        vector<pair<int, pair<int, int>>>,
-                       greater<pair<int, pair<int, int>>>>
-            pq;
+                       greater<pair<int, pair<int, int>>>>pq;
         pq.push({0, {0, 0}});
         while (!pq.empty()) {
             auto [dist, curr] = pq.top();
