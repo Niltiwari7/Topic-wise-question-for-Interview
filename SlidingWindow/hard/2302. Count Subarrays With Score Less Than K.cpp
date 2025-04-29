@@ -1,3 +1,7 @@
+
+// optimized solution
+// Time complexity: O(n)
+// Space complexity: O(1)
 class Solution {
     public:
         long long countSubarrays(vector<int>& nums, long long k) {
