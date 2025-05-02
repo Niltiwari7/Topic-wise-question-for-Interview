@@ -5,7 +5,7 @@
   - [Medium](#medium)
   - [Hard](#hard)
 
--[Two Poninter](#two-pointer)
+- [Two Poninter](#two-pointer)
 
 ---
 
@@ -51,4 +51,4 @@
 
 | S.No | Question | Solution Link |
 |------|----------|----------------|
-| 1 | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) | [GitHub Link]() |
+| 1 | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) | [GitHub Link](https://github.com/Niltiwari7/Topic-wise-question-for-Interview/blob/master/Two%20Pointer/medium/838.%20Push%20Dominoes.cpp) |
