@@ -6,6 +6,7 @@
   - [Hard](#hard)
 
 - [Two Poninter](#two-pointer)
+  - [Medium](#medium)
 
 ---
 
