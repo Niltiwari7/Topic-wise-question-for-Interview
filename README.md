@@ -5,6 +5,8 @@
   - [Medium](#medium)
   - [Hard](#hard)
 
+-[Two Poninter](#two-pointer)
+
 ---
 
 ## 🧮 Array – Topic-wise Questions for Interview
@@ -40,3 +42,13 @@
 | S.No | Question | Solution Link |
 |------|----------|----------------|
 | – | – | – |
+
+---
+---
+### Two Pointer
+
+### Medium
+
+| S.No | Question | Solution Link |
+|------|----------|----------------|
+| 1 | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) | [GitHub Link]() |
