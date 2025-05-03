@@ -4,6 +4,9 @@
   - [Easy](#easy)
   - [Medium](#medium)
   - [Hard](#hard)
+---
+- [Greedy](#greedy)
+  - [Medium](#medium)
 
 - [Two Poninter](#two-pointer)
   - [Medium](#medium)
@@ -53,3 +56,12 @@
 | S.No | Question | Solution Link |
 |------|----------|----------------|
 | 1 | [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/description/) | [GitHub Link](https://github.com/Niltiwari7/Topic-wise-question-for-Interview/blob/master/Two%20Pointer/medium/838.%20Push%20Dominoes.cpp) |
+
+---
+---
+### Greedy
+
+### Medium
+| S.No | Question | Solution Link |
+|------|----------|----------------|
+| 1 | [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/) | [GitHub Link](https://github.com/Niltiwari7/Topic-wise-question-for-Interview/blob/master/Two%20Pointer/medium/838.%20Push%20Dominoes.cpp) |
