@@ -64,4 +64,4 @@
 ### Medium
 | S.No | Question | Solution Link |
 |------|----------|----------------|
-| 1 | [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/) | [GitHub Link]([https://github.com/Niltiwari7/Topic-wise-question-for-Interview/blob/master/Two%20Pointer/medium/838.%20Push%20Dominoes.cpp](https://github.com/Niltiwari7/Topic-wise-question-for-Interview/blob/master/Greedy/medium/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.cpp)) |
+| 1 | [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/) | [GitHub Link](https://github.com/Niltiwari7/Topic-wise-question-for-Interview/blob/master/Greedy/medium/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.cpp) |
