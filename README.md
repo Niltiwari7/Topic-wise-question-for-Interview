@@ -1,7 +1,3 @@
-Certainly! Here's a refined version of your README file with improved formatting, consistency, and clarity:
-
----
-
 ## 📚 Table of Contents
 
 * [Array – Topic-wise Questions for Interview](#array--topic-wise-questions-for-interview)
